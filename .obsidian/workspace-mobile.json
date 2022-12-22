@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "621f9f2b1e63bca0",
+        "id": "cd1e9047db3f1dad",
         "type": "tabs",
         "children": [
           {
-            "id": "df82f8edb957bdce",
+            "id": "4e5788617fb19649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Busfahrer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14961b5d0ee459df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kokosnuss.md",
-                "mode": "source",
+                "file": "Karamelltrüffel.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kokosnuss.md",
+            "file": "Karamelltrüffel.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kokosnuss.md",
+            "file": "Karamelltrüffel.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,15 +114,19 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kokosnuss.md"
+            "file": "Karamelltrüffel.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "14961b5d0ee459df",
+  "active": "4e5788617fb19649",
   "lastOpenFiles": [
+    "Himbeer-Gin-Trüffel.md",
+    "Karamelltrüffel.md",
+    "Einkaufsliste 16. Dez. '22.md",
+    "Kokosnuss.md",
     "Busfahrer.md"
   ]
 }
