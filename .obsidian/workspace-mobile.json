@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "d7b2e33c355c7338",
+    "type": "split",
+    "children": [
+      {
+        "id": "621f9f2b1e63bca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df82f8edb957bdce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97b692508d1eb982",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c43aa4809989d75b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e85f3f93f4ce4437",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "924f97cdaf51d740",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f2c2d69b559ade1f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "55479258804419c1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b872873e5572fac3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "lol.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6b5f30e4624c9fce",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "lol.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b0905cece914cb97",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "lol.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "df82f8edb957bdce",
+  "lastOpenFiles": []
+}
