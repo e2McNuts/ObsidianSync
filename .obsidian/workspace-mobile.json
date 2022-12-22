@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lol.md",
+                "file": "Busfahrer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14961b5d0ee459df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taxifahrer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "lol.md",
+            "file": "Taxifahrer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "lol.md",
+            "file": "Taxifahrer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,13 +127,15 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "lol.md"
+            "file": "Taxifahrer.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "df82f8edb957bdce",
-  "lastOpenFiles": []
+  "active": "14961b5d0ee459df",
+  "lastOpenFiles": [
+    "Busfahrer.md"
+  ]
 }
