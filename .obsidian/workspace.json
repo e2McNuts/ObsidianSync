@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77f21db48bd8c8fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hochschule/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charts View Test.md",
+                "file": "Hochschule/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charts View Test.md",
+                "file": "Hochschule/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charts View Test.md"
+                "file": "Hochschule/Untitled.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce3e82e8f19b8127",
+  "active": "77f21db48bd8c8fd",
   "lastOpenFiles": [
     "Charts View Test.md",
+    "Hochschule/Untitled.md",
     "Privat/Geschenkliste Pralinen.md",
     "Privat/Himbeer-Gin-Trüffel.md",
     "Privat/Karamelltrüffel.md",
