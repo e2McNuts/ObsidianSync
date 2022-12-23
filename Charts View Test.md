@@ -1,11 +1,17 @@
-```chart  
+```chart
 type: line
-labels: [Monday,Tuesday,Wednesday,Thursday,Friday]
+labels: [Qt1, Qt2, Qt3, Qt4]
 series:
-	title: Title 1
-	data: [1,2,3,4,5]
-	title: Title 2
-	data: [5,4,3,2,1]
-	title: Title 3
-	data: [8,2,5,-1,4]
+  - title: red
+    data: [1,4,12,10]
+  - title: blue
+    data: [10, 10, 0, 5]
+tension: 0
+width: 100%
+labelColors: true
+fill: false
+beginAtZero: false
+bestFit: false
+bestFitTitle: undefined
+bestFitNumber: 0
 ```
