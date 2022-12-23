@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privat/Geschenkliste Pralinen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privat/Geschenkliste Pralinen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Privat/Geschenkliste Pralinen.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,11 +139,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71f278d712326bf1",
+  "active": "12eea65d3a2981bd",
   "lastOpenFiles": [
+    "Privat/Geschenkliste Pralinen.md",
     "Privat/Himbeer-Gin-Trüffel.md",
     "Privat/Karamelltrüffel.md",
-    "Privat/Geschenkliste Pralinen.md",
     "Einkaufsliste 16. Dez. '22.md",
     "Test.md"
   ]
