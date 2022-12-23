@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-icon-folder",
+  "obsidian-chartsview-plugin"
 ]
