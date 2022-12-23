@@ -1,7 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-chartsview-plugin",
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-charts"
 ]

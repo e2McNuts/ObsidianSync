@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1342318e42b02c65",
+        "id": "f8e0cca85cd1f8b8",
         "type": "tabs",
         "children": [
           {
-            "id": "12eea65d3a2981bd",
+            "id": "ce3e82e8f19b8127",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12eea65d3a2981bd",
+  "active": "ce3e82e8f19b8127",
   "lastOpenFiles": [
+    "Charts View Test.md",
     "Privat/Geschenkliste Pralinen.md",
     "Privat/Himbeer-Gin-Trüffel.md",
     "Privat/Karamelltrüffel.md",
