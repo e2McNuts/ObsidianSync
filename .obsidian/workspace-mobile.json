@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e5788617fb19649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Karamelltrüffel.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fe77b42eb6596f6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "026acde0d4408675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "Test2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "Test2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,15 +127,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md"
+            "file": "Test2.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "fe77b42eb6596f6c",
+  "active": "026acde0d4408675",
   "lastOpenFiles": [
+    "Test.md",
     "Karamelltrüffel.md",
     "Himbeer-Gin-Trüffel.md",
     "Einkaufsliste 16. Dez. '22.md",
