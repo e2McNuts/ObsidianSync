@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07a922d6e718b876",
+        "id": "1342318e42b02c65",
         "type": "tabs",
         "children": [
           {
-            "id": "69600b0159f509ab",
+            "id": "12eea65d3a2981bd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Privat/Geschenkliste Pralinen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Privat/Geschenkliste Pralinen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Privat/Geschenkliste Pralinen.md"
+              }
             }
           }
         ]
@@ -139,8 +143,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69600b0159f509ab",
+  "active": "71f278d712326bf1",
   "lastOpenFiles": [
+    "Privat/Himbeer-Gin-Trüffel.md",
+    "Privat/Karamelltrüffel.md",
+    "Privat/Geschenkliste Pralinen.md",
+    "Einkaufsliste 16. Dez. '22.md",
     "Test.md"
   ]
 }
