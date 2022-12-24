@@ -7,7 +7,7 @@ series:
   - title: blue
     data: [10, 10, 0, 5]
 tension: 0
-width: 100%
+width: 50%
 labelColors: true
 fill: false
 beginAtZero: false
@@ -16,6 +16,7 @@ bestFitTitle: undefined
 bestFitNumber: 0
 ```
 
+
 ```chart
 type: radar
 labels: [1, 2, 3, 4, 5, 6]
@@ -23,7 +24,7 @@ series:
   - title: circle
     data: [1, 1, 1, 1, 1, 1]
 tension: 0.36
-width: 100%
+width: 50%
 labelColors: false
 fill: false
 beginAtZero: false

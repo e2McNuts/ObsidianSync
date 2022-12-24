@@ -11,8 +11,12 @@
             "id": "2e2ce86d63763a45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Charts View Test.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Charts View Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Charts View Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,13 +113,15 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Charts View Test.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "c43aa4809989d75b",
+  "active": "2e2ce86d63763a45",
   "lastOpenFiles": [
     "Test.md",
     "Test2.md",
