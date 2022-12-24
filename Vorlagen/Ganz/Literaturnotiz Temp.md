@@ -1,14 +1,15 @@
 ---
-Titel: {{title}}
-Autor: [{{author}}]
+title: {{title}}
+author: {{author}}
 publisher: {{publisher}}
 publish: {{publishDate}}
-Seiten: {{totalPage}}
+total: {{totalPage}}
 isbn: {{isbn10}} {{isbn1#template-variable-definition
 cover: {{coverUrl}}
-status: unread
+read: unread
+owned: unowned
 ---
 
-![cover|150]({{coverUrl}})
-
 # {{title}}
+### {{author}}
+![cover|150]({{coverUrl}})

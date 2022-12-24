@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e0cca85cd1f8b8",
+        "id": "0d24fbbd3a8d9153",
         "type": "tabs",
         "children": [
           {
-            "id": "ce3e82e8f19b8127",
+            "id": "0309a78b352ec350",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charts View Test.md",
+                "file": "Bücherregal.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77f21db48bd8c8fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hochschule/Untitled.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "26e4383bd6a1658d",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hochschule/Untitled.md",
+                "file": "Bücherregal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hochschule/Untitled.md",
+                "file": "Bücherregal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hochschule/Untitled.md"
+                "file": "Bücherregal.md"
               }
             }
           }
@@ -157,17 +144,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "77f21db48bd8c8fd",
+  "active": "0309a78b352ec350",
   "lastOpenFiles": [
-    "Charts View Test.md",
-    "Hochschule/Untitled.md",
-    "Privat/Geschenkliste Pralinen.md",
-    "Privat/Himbeer-Gin-Trüffel.md",
-    "Privat/Karamelltrüffel.md",
-    "Einkaufsliste 16. Dez. '22.md",
-    "Test.md"
+    "Books/Die kürzeste Geschichte Deutschlands - James Hawes.md",
+    "Books/Holzphysik - Peter Niemz Walter Ulrich Sonderegger.md",
+    "Books/Berufsethik und Grundwerte in Japan - Tamayo Iwamura.md",
+    "Bücherregal.md",
+    "Books/Brandschutzfibel - Adam Merschbacher.md",
+    "Leseliste.md",
+    "Vorlagen/Ganz/Literaturnotiz Temp.md",
+    "Books/Verbot und Verzicht - Philipp Lepenies.md",
+    "Books/Eragon - Christopher Paolini.md",
+    "Books/Der Herr der Ringe - J R R Tolkien.md"
   ]
 }

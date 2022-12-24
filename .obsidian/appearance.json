@@ -1,4 +1,5 @@
 {
   "accentColor": "#76bb40",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "showViewHeader": true
 }
