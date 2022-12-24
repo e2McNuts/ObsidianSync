@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5da1b54cd2a1ea1a",
+        "id": "0cf99b4335c14972",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2ce86d63763a45",
+            "id": "d1a96987d491b2e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charts View Test.md",
-                "mode": "preview",
+                "file": "Books/Verbot und Verzicht - Philipp Lepenies.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ca326f172d7ac6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leseliste.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "defc1cc44b295cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bücherregal.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Charts View Test.md",
+            "file": "Bücherregal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Charts View Test.md",
+            "file": "Bücherregal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,21 +139,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Charts View Test.md"
+            "file": "Bücherregal.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "2e2ce86d63763a45",
+  "active": "defc1cc44b295cc5",
   "lastOpenFiles": [
+    "Books/Verbot und Verzicht - Philipp Lepenies.md",
+    "Bücherregal.md",
+    "Leseliste.md",
+    "Books/Technology and the Common Good - Allen Batteau.md",
+    "Vorlagen/Ganz/Literaturnotiz Temp.md",
+    "{{coverUrl}}.md",
+    "Charts View Test.md",
     "Test.md",
     "Test2.md",
-    "Karamelltrüffel.md",
-    "Himbeer-Gin-Trüffel.md",
-    "Einkaufsliste 16. Dez. '22.md",
-    "Kokosnuss.md",
-    "Busfahrer.md"
+    "Karamelltrüffel.md"
   ]
 }
