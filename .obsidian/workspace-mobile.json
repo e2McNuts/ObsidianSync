@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "ca326f172d7ac6f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leseliste.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "defc1cc44b295cc5",
             "type": "leaf",
             "state": {
@@ -44,7 +32,8 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -148,15 +137,15 @@
   },
   "active": "defc1cc44b295cc5",
   "lastOpenFiles": [
-    "Books/Verbot und Verzicht - Philipp Lepenies.md",
+    "Privat/Geschenkliste Pralinen.md",
     "Bücherregal.md",
+    "Books/Verbot und Verzicht - Philipp Lepenies.md",
     "Leseliste.md",
     "Books/Technology and the Common Good - Allen Batteau.md",
     "Vorlagen/Ganz/Literaturnotiz Temp.md",
     "{{coverUrl}}.md",
     "Charts View Test.md",
     "Test.md",
-    "Test2.md",
-    "Karamelltrüffel.md"
+    "Test2.md"
   ]
 }
