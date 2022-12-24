@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": ".md",
+        "icon": "FarFileLines",
+        "for": "everything"
+      },
+      {
+        "rule": "#",
+        "icon": "FarFolder",
+        "for": "everything"
+      },
+      {
+        "rule": ".pdf",
+        "icon": "FarFilePdf",
+        "for": "everything"
+      },
+      {
+        "rule": ".png",
+        "icon": "FarImage",
+        "for": "everything"
+      },
+      {
+        "rule": ".css",
+        "icon": "FarHandScissors",
+        "for": "everything"
+      },
+      {
+        "rule": "snippets",
+        "icon": "FarHandScissors",
+        "for": "everything"
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  }
+}
