@@ -7,7 +7,7 @@ TABLE WITHOUT ID
 author As Autor,
 publisher + " " + publish As Verlag
 from "Books"
-Where contains(owned,"owned")
+Where contains(owned,"ja")
 ```
 
 # Meine Leseliste
@@ -18,8 +18,8 @@ TABLE WITHOUT ID
 author As Autor,
 publisher + " " + publish As Verlag
 from "Books"
-Where contains(owned,"owned")
-Where contains(read,"unread")
+Where contains(owned,"ja")
+Where contains(read,"nein")
 ```
 
 # Meine Wunschliste
@@ -30,5 +30,5 @@ TABLE WITHOUT ID
 author As Autor,
 publisher + " " + publish As Verlag
 from "Books"
-Where contains(owned,"unowned")
+Where contains(owned,"nein")
 ```
