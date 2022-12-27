@@ -11,8 +11,12 @@
             "id": "0d542e15463fc6e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Staad Schleiniger.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Staad Schleiniger.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Staad Schleiniger.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Staad Schleiniger.md"
+          }
         }
       }
     ],
