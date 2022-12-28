@@ -7,6 +7,7 @@ instruments: Accordion
 ```music-abc
 X:1
 %%titlefont Arial 26 bold
+%%measurenb 0
 %%score {1|2}
 T:Staad Schleiniger
 C:Herbert Pixner
