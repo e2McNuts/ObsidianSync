@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ef97ebf6f90bbb",
-        "type": "tabs",
+        "id": "fe80879126dbbf6e",
+        "type": "split",
         "children": [
           {
-            "id": "21f1cb11ea798a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hochschule/Holzwerkstoffe.md",
-                "mode": "preview",
-                "source": true
+            "id": "ea7dc1fb1643ac23",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "31e2a070675e8d13",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rock Toccata.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "f635119977ec55ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c1a9027197173f06",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rock Toccata.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hochschule/Holzwerkstoffe.md",
+                "file": "Rock Toccata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hochschule/Holzwerkstoffe.md",
+                "file": "Rock Toccata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hochschule/Holzwerkstoffe.md"
+                "file": "Rock Toccata.md"
               }
             }
           }
@@ -148,14 +173,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "21f1cb11ea798a3b",
+  "active": "c1a9027197173f06",
   "lastOpenFiles": [
-    "Hochschule/Vollholz.md",
+    "Staad Schleiniger.md",
     "Hochschule/Holzwerkstoffe.md",
+    "Hochschule/Vollholz.md",
     "Privat/Pralinenablaufplan.md",
     "Privat/Karamelltrüffel.md",
     "Privat/Geschenkliste Pralinen.md",
-    "Staad Schleiniger.md",
     "Bücherregal.md",
     "Books/Alleine ist man weniger zusammen - Paul Bokowski.md",
     "Books/Die kürzeste Geschichte Deutschlands - James Hawes.md",
