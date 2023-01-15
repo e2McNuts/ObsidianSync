@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d542e15463fc6e5",
+            "id": "e6a6fe274cf3033c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Staad Schleiniger.md",
+                "file": "Untitled.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Staad Schleiniger.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Staad Schleiniger.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,24 +115,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Staad Schleiniger.md"
+            "file": "Untitled.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "0d542e15463fc6e5",
+  "active": "e6a6fe274cf3033c",
   "lastOpenFiles": [
+    "Setliste.md",
+    "Swingende Harmonika.md",
+    "Staad Schleiniger.md",
+    "Untitled.md",
     "Bücherregal.md",
     "Books/Wohnungslüftung und Wärmerückgewinnung - Peter Müller.md",
     "Books/Wärmeübertragung mit EXCEL und VBA - Uwe Feuerriegel.md",
     "Books/Vorbeugender Brandschutz in der Gebäudeplanung - Claus Lange.md",
     "Books/Vor- und Nachteile von Neubau oder Sanierung im Bestand - Werner Seiferlein.md",
-    "Books/Technisches Zeichnen - Susanna Labisch Christian Weber.md",
-    "Books/Schallschutz Bauakustik - Wolfgang M Willems Alexandra Wagner Diana Stricker.md",
-    "Books/Schadstoffe im Bauwesen - Siegmund Kaub.md",
-    "Books/Ökologische Materialien in der Baubranche - Hannes Bäuerle Marie-Theres Lohmann.md",
-    "Books/Lehrbuch der Bauphysik - Wolfgang M Willems.md"
+    "Books/Technisches Zeichnen - Susanna Labisch Christian Weber.md"
   ]
 }
