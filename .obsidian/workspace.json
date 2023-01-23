@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ea7dc1fb1643ac23",
+        "id": "e5298b8f249b3d63",
         "type": "tabs",
         "children": [
           {
-            "id": "ed4d7693db9d8d82",
+            "id": "26a36c6741a6ef22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bücherregal.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bücherregal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bücherregal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bücherregal.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,17 +140,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ed4d7693db9d8d82",
+  "active": "26a36c6741a6ef22",
   "lastOpenFiles": [
+    "Artikel/IMG-20230115-WA0001.jpg",
+    "Artikel/Spiegel - Wie der deutsche Handball unter tyrannischen Trainern leidet.md",
+    "Artikel/IMG-20230115-WA0002.jpg",
     "Setliste.md",
-    "Swingende Harmonika.md",
-    "Untitled.md",
+    "Bücherregal.md",
+    "Musik/Swingende Harmonika.md",
     "Untitled 1.md",
     "Musik/Der Alte Schäfer.md",
     "Musik/Rock Toccata.md",
-    "Bücherregal.md",
-    "Musik/Staad Schleiniger.md",
-    "Hochschule/Holzwerkstoffe.md",
-    "Hochschule/Vollholz.md"
+    "Musik/Staad Schleiniger.md"
   ]
 }
