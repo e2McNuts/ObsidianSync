@@ -11,8 +11,12 @@
             "id": "26a36c6741a6ef22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bücherregal.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bücherregal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bücherregal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bücherregal.md"
+              }
             }
           }
         ]
@@ -142,15 +150,15 @@
   },
   "active": "26a36c6741a6ef22",
   "lastOpenFiles": [
+    "Books/Forstbotanik - Georg Schwedt.md",
+    "Books/Der Wald seine Bäume und Sträucher - Eugen Rauner.md",
+    "Books/Was Bits Bäume verbindet - Anja Höfner Vivian Frick.md",
+    "Bücherregal.md",
+    "Books/Holzphysik - Peter Niemz Walter Ulrich Sonderegger.md",
     "Artikel/IMG-20230115-WA0001.jpg",
     "Artikel/Spiegel - Wie der deutsche Handball unter tyrannischen Trainern leidet.md",
     "Artikel/IMG-20230115-WA0002.jpg",
     "Setliste.md",
-    "Bücherregal.md",
-    "Musik/Swingende Harmonika.md",
-    "Untitled 1.md",
-    "Musik/Der Alte Schäfer.md",
-    "Musik/Rock Toccata.md",
-    "Musik/Staad Schleiniger.md"
+    "Musik/Swingende Harmonika.md"
   ]
 }
