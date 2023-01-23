@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setliste.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cbaec4b10f269ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setliste.md",
-                "mode": "preview",
+                "file": "Bücherregal.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setliste.md",
+                "file": "Bücherregal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setliste.md",
+                "file": "Bücherregal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setliste.md"
+                "file": "Bücherregal.md"
               }
             }
           }
@@ -161,17 +148,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cbaec4b10f269ef8",
+  "active": "ed4d7693db9d8d82",
   "lastOpenFiles": [
-    "Musik/Der Alte Schäfer.md",
     "Setliste.md",
+    "Swingende Harmonika.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Musik/Der Alte Schäfer.md",
     "Musik/Rock Toccata.md",
     "Bücherregal.md",
     "Musik/Staad Schleiniger.md",
     "Hochschule/Holzwerkstoffe.md",
-    "Hochschule/Vollholz.md",
-    "Privat/Pralinenablaufplan.md",
-    "Privat/Karamelltrüffel.md",
-    "Privat/Geschenkliste Pralinen.md"
+    "Hochschule/Vollholz.md"
   ]
 }
